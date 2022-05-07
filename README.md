@@ -1,2 +1,2 @@
-# awS_hello_world
+# aws_hello_world
 Deploying Hello World on AWS
